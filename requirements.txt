@@ -34,8 +34,10 @@ numpy==1.26.4
 oauthlib==3.3.1
 opt-einsum==3.4.0
 packaging==25.0
+pandas==2.3.2
 parso==0.8.5
 pexpect==4.9.0
+pillow==11.3.0
 platformdirs==4.4.0
 prompt-toolkit==3.0.52
 protobuf==4.25.8
@@ -46,6 +48,7 @@ pyasn1==0.6.1
 pyasn1-modules==0.4.2
 pygments==2.19.2
 python-dateutil==2.9.0.post0
+pytz==2025.2
 pyzmq==27.1.0
 requests==2.32.5
 requests-oauthlib==2.0.0
@@ -64,6 +67,7 @@ termcolor==3.1.0
 tornado==6.5.2
 traitlets==5.14.3
 typing-extensions==4.15.0
+tzdata==2025.2
 urllib3==2.5.0
 wcwidth==0.2.13
 werkzeug==3.1.3
